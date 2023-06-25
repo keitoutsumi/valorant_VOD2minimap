@@ -13,7 +13,7 @@ args = parser.parse_args()
 video_file_path = args.video_file_path
 output_folder_path = args.output_folder_path
 
-ocr_roi = (978, 7, 1000, 24)
+ocr_roi = (979, 10, 999, 25)
 crop_roi = (30, 50, 410, 410)
 
 cap = cv2.VideoCapture(video_file_path)
