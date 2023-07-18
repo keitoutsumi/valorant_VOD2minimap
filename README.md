@@ -10,15 +10,15 @@ AIMs to do further analysis on player movement during rounds, providing crucial 
 
 ## Table of Contents
 
-- [Project Title](#project-title)
-- [Table of Contents](#table-of-contents)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+<!--
 - [Sample Products](#sample-products)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+-->
 
 ## Requirements
 
