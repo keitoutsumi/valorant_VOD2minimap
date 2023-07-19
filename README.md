@@ -13,6 +13,7 @@ AIMs to do further analysis on player movement during rounds, providing crucial 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
 <!--
 - [Sample Products](#sample-products)
 - [Contributing](#contributing)
@@ -33,3 +34,7 @@ opencv-python, pytesseract, collections
 ```bash
 $ git clone https://github.com/keitoutsumi/valorant_VOD2minimap
 $ cd VOD2minimap
+
+
+## Acknowledgements
+
